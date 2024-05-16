@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 
 
 Meu nome é Ethan Novelli
 
@@ -8,6 +8,5 @@ Meu nome é Ethan Novelli
 
 ### Você não pode ntrar em contato comigo
 
-![descrição do GIF](link GIF do Tenor)
-https://media.tenor.com/mCiM7CmGGI4AAAAM/naruto.gif
+![descrição do GIF](https://media.tenor.com/mCiM7CmGGI4AAAAM/naruto.gif)
 
